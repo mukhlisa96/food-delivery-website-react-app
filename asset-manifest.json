@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/food-delivery-website-react-app/static/css/main.3ad75dc6.css",
+    "main.js": "/food-delivery-website-react-app/static/js/main.6ffcc79c.js",
+    "index.html": "/food-delivery-website-react-app/index.html",
+    "main.3ad75dc6.css.map": "/food-delivery-website-react-app/static/css/main.3ad75dc6.css.map",
+    "main.6ffcc79c.js.map": "/food-delivery-website-react-app/static/js/main.6ffcc79c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ad75dc6.css",
+    "static/js/main.6ffcc79c.js"
+  ]
+}
